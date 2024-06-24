@@ -8,6 +8,7 @@
 
 - **CCNA**: Cisco Certified Network Associate
 - **AZ-900**: Microsoft Azure Fundamentals
+- **ISO-27001 Foundation**: PECB ISO 27001 Foundation
 - **Upcoming**: Offensive Security Certified Professional (OSCP)
 
 ## Connect with Me📫
