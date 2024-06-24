@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hello! I’m @w3n0ga5h my name is Y'anis, and I am a Master 1 student at Oteria Cyber School. I am passionate about cybersecurity in all its domains, with a particular interest in pentest and red teaming.
+👋 Hello! I’m @w3n0ga5h my name is Yanis, and I am a Master 1 student at Oteria Cyber School. I am passionate about cybersecurity in all its domains, with a particular interest in pentest and red teaming.
 
 ## Certifications
 
