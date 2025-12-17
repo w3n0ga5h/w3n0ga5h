@@ -2,14 +2,17 @@
 
 ## About Me
 
-👋 Hello! I’m @w3n0ga5h my name is Yanis, and I am a Master 1 student in Cybersecurity at Oteria Cyber School. I am passionate about cybersecurity in all its domains, with a particular interest in pentest and red teaming.
+👋 Hello! I’m @w3n0ga5h i am a student in Cybersecurity. I am passionate about cybersecurity in all its domains, with a particular interest in offensive security (pentest and red teaming).
 
 ## Certifications
 
-- **CCNA**: Cisco Certified Network Associate
-- **AZ-900**: Microsoft Azure Fundamentals
-- **ISO-27001 Foundation**: PECB ISO 27001 Foundation
-- **Upcoming**: Offensive Security Certified Professional (OSCP)
+- **OSCP**
+- **CPTS**
+- **CCNA**
+- **PJPT**
+- **AZ-900**
+- **ISO-27001 Foundation**
+- **Upcoming**: CRTP, CRTO, BSCP, CAPE, CRTL
 
 ## Connect with Me📫
 
